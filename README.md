@@ -1,1 +1,1 @@
-![]("https://i.imgur.com/fmGyBah.png")
+![](https://i.imgur.com/fmGyBah.png)
