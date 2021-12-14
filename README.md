@@ -1,1 +1,1 @@
-![]("https://github.com/haosmark/java-spring-covid-tracker/blob/master/screenshot.png")
+![screenshot]("https://github.com/haosmark/java-spring-covid-tracker/blob/master/screenshot.png")
