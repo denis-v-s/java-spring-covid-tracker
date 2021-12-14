@@ -1,1 +1,1 @@
-![](https://i.imgur.com/fmGyBah.png)
+![](https://github.com/haosmark/java-spring-covid-tracker/blob/master/screenshot.png)
